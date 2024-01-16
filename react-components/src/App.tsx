@@ -2,8 +2,8 @@
 import { MusicCard } from "./Music_card/MusicCard"
 
 function App() {
-  // return <Recipe/>
-  return <MusicCard/>
+   return <Recipe/>
+  //return <MusicCard/>
 }
 
 export default App
